@@ -1,6 +1,6 @@
 {
   "name": "zona-button",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "this is react zona button package",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,7 @@
     "url": "git+https://github.com/Mindula-Dilthushan/Zona-Button.git"
   },
   "keywords": [
-    "react",
-    "zona",
-    "react-button"
+    "react"
   ],
   "author": "mindula dilthushan",
   "license": "MIT",
@@ -29,13 +27,6 @@
     "@babel/core": "^7.21.5",
     "@babel/preset-env": "^7.21.5",
     "@babel/preset-react": "^7.18.6",
-    "babel-loader": "^9.1.2",
-    "webpack": "^5.81.0",
-    "webpack-cli": "^5.0.2",
-    "webpack-dev-server": "^4.13.3"
-  },
-  "dependencies": {
-    "html-webpack-plugin": "^5.5.1",
-    "webpack-node-externals": "^3.0.0"
+    "babel-loader": "^9.1.2"
   }
 }
