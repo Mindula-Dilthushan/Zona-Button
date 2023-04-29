@@ -1,0 +1,28 @@
+{
+  "name": "zona-button",
+  "version": "1.0.0",
+  "description": "this is react zona button package",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mindula-Dilthushan/Zona-Button.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "mindula dilthushan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mindula-Dilthushan/Zona-Button/issues"
+  },
+  "homepage": "https://github.com/Mindula-Dilthushan/Zona-Button#readme",
+  "dependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.21.5",
+    "@babel/preset-env": "^7.21.5",
+    "@babel/preset-react": "^7.18.6"
+  }
+}
