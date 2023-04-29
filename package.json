@@ -2,7 +2,7 @@
   "name": "zona-button",
   "version": "1.0.0",
   "description": "this is react zona button package",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "npx babel src --out-dir dist"
   },
