@@ -8,11 +8,11 @@
 import React from 'react'
 
 const ZeroButton = () => {
-    return (
-        <div>
-            <h1>Welcome Zero Button Package!</h1>
-        </div>
-    )
+  return (
+    <div>
+      <h1>Welcome Zero Button Package!</h1>
+    </div>
+  )
 }
 
 export default ZeroButton

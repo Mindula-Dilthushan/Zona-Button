@@ -7,4 +7,4 @@
  */
 import ZeroButton from './components/App'
 
-export {ZeroButton}
+export { ZeroButton }
