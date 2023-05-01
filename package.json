@@ -1,7 +1,7 @@
 {
   "name": "zona-button",
-  "version": "1.0.20",
-  "description": "this is react zona button package",
+  "version": "1.1.0",
+  "description": "this is zona button package",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
