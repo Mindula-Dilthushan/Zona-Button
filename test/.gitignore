@@ -1,6 +1,5 @@
 node_modules
+yarn.lock
+.parcel-cache
 dist
-package-lock.json
-test
 yarn-error.log
-

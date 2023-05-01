@@ -5,11 +5,16 @@
  * Author Email :   minduladilthushan1@gmail.com
  *
  */
-export const ZonaButton = () => {
+// @ts-ignore
+import React from 'react'
+
+// @ts-ignore
+const ZeroButton = () => {
     return(
         <div>
-            <h1> Welcome To Zona </h1>
+            <h1>Welcome Zero Button Package!</h1>
         </div>
     )
 }
 
+export default ZeroButton;

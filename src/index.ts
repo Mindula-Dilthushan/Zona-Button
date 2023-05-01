@@ -5,6 +5,5 @@
  * Author Email :   minduladilthushan1@gmail.com
  *
  */
-import React from "react";
-import {ZonaButton} from "./src/lib/ZonaButton";
-export default ZonaButton;
+import ZeroButton from "./components/App";
+export {ZeroButton}
