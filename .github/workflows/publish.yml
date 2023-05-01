@@ -20,7 +20,7 @@ jobs:
 
       - name: Setup Node
         # Setup node environment
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v10
         with:
           # Node version. Run "node -v" to check the latest version
           node-version: 16.x
