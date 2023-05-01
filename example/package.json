@@ -16,5 +16,8 @@
     "react-dom": "^18.2.0"
   },
   "author": "mindula dilthushan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zona-button": "^1.0.20"
+  }
 }
