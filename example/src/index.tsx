@@ -1,7 +1,7 @@
 // @ts-ignore
 import React from 'react'
 // @ts-ignore
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom/client'
 import { ZeroButton } from 'zona-button'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
