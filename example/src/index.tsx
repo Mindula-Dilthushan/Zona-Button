@@ -9,7 +9,7 @@ root.render(
   <React.StrictMode>
     <div>
       <h2>Test Zero Button Package</h2>
-      {/*<ZeroButton />*/}
+      {/*<ZeroButton/>*/}
     </div>
-  </React.StrictMode>
+  </React.StrictMode>,
 )
