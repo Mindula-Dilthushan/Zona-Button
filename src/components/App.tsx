@@ -5,16 +5,14 @@
  * Author Email :   minduladilthushan1@gmail.com
  *
  */
-// @ts-ignore
 import React from 'react'
 
-// @ts-ignore
 const ZeroButton = () => {
-    return(
+    return (
         <div>
             <h1>Welcome Zero Button Package!</h1>
         </div>
     )
 }
 
-export default ZeroButton;
+export default ZeroButton

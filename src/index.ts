@@ -5,5 +5,6 @@
  * Author Email :   minduladilthushan1@gmail.com
  *
  */
-import ZeroButton from "./components/App";
+import ZeroButton from './components/App'
+
 export {ZeroButton}
